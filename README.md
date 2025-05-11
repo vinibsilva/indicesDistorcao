@@ -5,7 +5,7 @@ Este conjunto de dados abrange as taxas de distorção idade-série no Brasil, d
 
 Em resumo, essa taxa mede a frequência de estudantes que estão atrasados em dois anos ou mais em relação à série que deveriam estar cursando.
 
-Dicionário de dados
+***Dicionário de dados***
 
 | Nome                         | Tipo    | Título                                    | Descrição                                                                                                                                                                                                                                       |
 | ---------------------------- | ------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
